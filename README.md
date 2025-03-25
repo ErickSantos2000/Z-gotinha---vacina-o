@@ -8,8 +8,11 @@ Este repositório contém implementações e estudos desenvolvidos durante a dis
 O repositório inclui implementações das seguintes estruturas:
 
 ✅ Lista Encadeada (simples, duplamente encadeada, circular)
+
 ✅ Fila (FIFO – First In, First Out)
+
 ✅ Pilha (LIFO – Last In, First Out)
+
 ✅ Árvore Binária** (busca, inserção, remoção e percurso)
 
 Cada estrutura está implementada em C puro, utilizando ponteiros e alocação dinâmica.
@@ -17,10 +20,15 @@ Cada estrutura está implementada em C puro, utilizando ponteiros e alocação d
 ## Objetivo do Projeto
 
 ✔️ Compreender o funcionamento das principais estruturas de dados
+
 ✔️ Aprender a manipular ponteiros e gerenciar memória manualmente
+
 ✔️ Implementar operações básicas e avançadas em cada estrutura
 
 ## Tecnologias Utilizadas
+
 🖥️ Linguagem: C
+
 📌 Compilador: GCC
+
 🛠️ Ambiente:** Ubuntu / WSL
