@@ -1,4 +1,4 @@
-# Z-gotinha---vacina-o
+# Z-gotinha
 
 Projeto de Estruturas de Dados
 
