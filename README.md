@@ -1,4 +1,4 @@
-# Z-gotinha
+# Ze-gotinha
 
 Projeto de Estruturas de Dados
 
