@@ -143,11 +143,11 @@ int main() {
                     printf("Digite o nome completo: ");
                     getchar();  // Limpar o buffer
                     fgets(nome, 50, stdin);
-                    nome[strcspn(nome, "\n")] = '\0';  // Remover o '\n' no final da string
+                    nome[strcspn(nome, "\n")] = '\0';  
 
                     printf("Digite seu CPF: ");
                     fgets(cpf, 11, stdin);
-                    cpf[strcspn(cpf, "\n")] = '\0';  // Remover o '\n' no final da string
+                    cpf[strcspn(cpf, "\n")] = '\0'; 
 
                     printf("Digite a idade: ");
                     scanf("%d", &idade);
